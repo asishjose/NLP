@@ -1,0 +1,121 @@
+text,intent
+Explain my report,report_query
+Can you explain my medical report,report_query
+Help me understand my report,report_query
+What does my diagnosis mean,report_query
+Can you tell me what my report says,report_query
+Explain this diagnosis to me,report_query
+What does this report indicate,report_query
+Please explain the findings in my report,report_query
+Can you help me understand these results,report_query
+What does the doctor mean in this report,report_query
+What does stage 2 mean in my report,report_query
+Is my cancer serious according to the report,report_query
+Has the cancer spread according to my report,report_query
+What stage is my cancer in this report,report_query
+Does my report say the cancer has spread,report_query
+Can you explain the stage mentioned in my report,report_query
+What does stage III mean in my report,report_query
+Does my report show metastasis,report_query
+What does the biopsy result mean in my report,report_query
+Can you explain the biopsy findings in my report,report_query
+What does lymph node involvement mean in my report,report_query
+Does my report mention chemotherapy,report_query
+Is the tumor large according to my report,report_query
+Does my report say the cancer is aggressive,report_query
+What does the pathology report mean,report_query
+What does invasive carcinoma mean in my report,report_query
+What do these lab results indicate in my report,report_query
+Can you summarize my report,report_query
+Explain the test results in my report,report_query
+Help me understand the medical terms in my report,report_query
+What does metastasis mean,medical_term_query
+Explain metastasis,medical_term_query
+Meaning of metastasis in cancer,medical_term_query
+What is metastasis in cancer,medical_term_query
+What does biopsy mean,medical_term_query
+Explain biopsy in simple words,medical_term_query
+What is a biopsy test,medical_term_query
+Meaning of lymphoma,medical_term_query
+What does lymphoma mean,medical_term_query
+Explain lymphoma to me,medical_term_query
+What is chemotherapy,medical_term_query
+Explain chemotherapy,medical_term_query
+What does chemotherapy mean,medical_term_query
+What is radiation therapy,medical_term_query
+Explain radiation therapy,medical_term_query
+What does carcinoma mean,medical_term_query
+Explain carcinoma in simple terms,medical_term_query
+What does malignant mean,medical_term_query
+Meaning of malignant tumor,medical_term_query
+What does benign tumor mean,medical_term_query
+Explain benign tumor,medical_term_query
+What does stage 4 cancer mean,medical_term_query
+Explain stage 3 cancer,medical_term_query
+What does tumor mean,medical_term_query
+Explain tumor growth,medical_term_query
+What does oncology mean,medical_term_query
+What is an oncologist,medical_term_query
+Explain pathology report,medical_term_query
+Meaning of lymph nodes in cancer,medical_term_query
+What does metastasized mean,medical_term_query
+What causes cancer,medical_knowledge_query
+How does cancer develop,medical_knowledge_query
+Why do people get cancer,medical_knowledge_query
+What are common cancer treatments,medical_knowledge_query
+What treatments are available for cancer,medical_knowledge_query
+How does chemotherapy work,medical_knowledge_query
+How does radiation therapy work,medical_knowledge_query
+What is targeted therapy for cancer,medical_knowledge_query
+What are side effects of chemotherapy,medical_knowledge_query
+What are common cancer symptoms,medical_knowledge_query
+How is cancer diagnosed,medical_knowledge_query
+How do doctors detect cancer,medical_knowledge_query
+What tests are used to detect cancer,medical_knowledge_query
+How does cancer spread in the body,medical_knowledge_query
+What are early signs of cancer,medical_knowledge_query
+Is cancer hereditary,medical_knowledge_query
+Can cancer be cured,medical_knowledge_query
+What is the survival rate for cancer,medical_knowledge_query
+How do doctors decide cancer treatment,medical_knowledge_query
+What is immunotherapy for cancer,medical_knowledge_query
+How effective is chemotherapy,medical_knowledge_query
+What foods help cancer patients,medical_knowledge_query
+What lifestyle changes help cancer patients,medical_knowledge_query
+How long does chemotherapy treatment last,medical_knowledge_query
+What happens during radiation therapy,medical_knowledge_query
+Can cancer come back after treatment,medical_knowledge_query
+How do doctors determine cancer stage,medical_knowledge_query
+What does cancer staging mean,medical_knowledge_query
+What organs can cancer spread to,medical_knowledge_query
+How serious is cancer in general,medical_knowledge_query
+I am scared about my diagnosis,emotional_support
+I feel very worried about my report,emotional_support
+I'm really afraid about having cancer,emotional_support
+I don't know what to do after reading my report,emotional_support
+I'm anxious about my cancer results,emotional_support
+I feel overwhelmed by this diagnosis,emotional_support
+I'm terrified about what this report means,emotional_support
+I feel very stressed about my medical report,emotional_support
+I can't stop worrying about my cancer,emotional_support
+This diagnosis makes me very scared,emotional_support
+I feel hopeless after seeing my results,emotional_support
+I'm really nervous about my treatment,emotional_support
+I feel scared about the future,emotional_support
+This news is very upsetting for me,emotional_support
+I'm afraid the cancer is serious,emotional_support
+I'm feeling very emotional about my diagnosis,emotional_support
+I feel depressed after seeing my report,emotional_support
+I don't know how to handle this diagnosis,emotional_support
+I feel very anxious about my health,emotional_support
+I am really stressed about my condition,emotional_support
+This situation is making me panic,emotional_support
+I'm feeling lost after my diagnosis,emotional_support
+I am worried my cancer might be severe,emotional_support
+I feel scared thinking about cancer,emotional_support
+I feel very uneasy after hearing the results,emotional_support
+I am very concerned about my health condition,emotional_support
+I feel like I cannot handle this diagnosis,emotional_support
+I am emotionally overwhelmed right now,emotional_support
+I'm very nervous about what the report says,emotional_support
+I am afraid of what might happen next,emotional_support
